@@ -19,7 +19,7 @@ const SEED_TX = [
 { id:101, date:“2025-01-05”, type:“income”,  category:“საწევრო”,    amount:480,  description:“საწევრო — იანვარი” },
 { id:102, date:“2025-01-20”, type:“income”,  category:“კონცერტი”,   amount:1200, description:“გაზაფხულის კონცერტი — ბილეთები” },
 { id:103, date:“2025-02-05”, type:“income”,  category:“საწევრო”,    amount:320,  description:“საწევრო — თებერვალი (ნაწ.)” },
-{ id:104, date:“2025-02-12”, type:“income”,  category:“სპონსორი”,   amount:2000, description:“სს ‘ქართული ღვინო’ — სპონსორობა” },
+{ id:104, date:“2025-02-12”, type:“income”,  category:“სპონსორი”,   amount:2000, description:“სს ქართული ღვინო — სპონსორობა” },
 { id:105, date:“2025-03-03”, type:“income”,  category:“საწევრო”,    amount:160,  description:“საწევრო — მარტი (2 წევრი)” },
 { id:106, date:“2025-03-08”, type:“income”,  category:“გრანტი”,     amount:3000, description:“კულტ. სამინისტრო — გრანტი” },
 { id:201, date:“2025-01-10”, type:“expense”, category:“დარბაზი”,    amount:300,  description:“სარეპ. დარბ. — იანვ.” },
